@@ -3,8 +3,9 @@
 title: "Отчет по лабораторной работе №2"
 subtitle: "Задача о погоне"
 author: "Горбунова Ярослава Михайловна"
-group: НФИбд-01-19
-institute: РУДН, Москва, РФ
+group: NFIbd-01-19
+institute: RUDN University, Moscow, Russian Federation
+date: 2022 Feb 18th
 
 # Generic otions
 lang: ru-RU
