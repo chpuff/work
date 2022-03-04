@@ -1,3 +1,6 @@
+- Added lab04
+- Added stage2 to the group-project
+- Added CHANGELOG.md to the repository
 - Added files to the group-project/stage1
 - Added lab03
 - deleted presentation_02.docx
