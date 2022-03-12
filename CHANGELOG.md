@@ -1,3 +1,5 @@
+- Added lab05
+- Updated CHANGELOG.md in the repository
 - Added lab04
 - Added stage2 to the group-project
 - Added CHANGELOG.md to the repository
