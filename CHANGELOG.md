@@ -1,4 +1,8 @@
-- Added lab08
+- Added labo1 to course Информационная безопасность 2022-2023
+- Trash are deleted
+- modified files README_lab01.md
+- Updated CHANGELOG.md in the repository
+-  Added lab08
 - Updated CHANGELOG.md in the repository
 - Added stage4 to the group-project
 - Updated CHANGELOG.md in the repository
