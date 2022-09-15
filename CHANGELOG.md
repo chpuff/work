@@ -1,3 +1,6 @@
+- Added lab03 to course Информационная безопасность 2022-2023
+- Added lab02 to course Информационная безопасность 2022-2023
+-  Updated CHANGELOG.md in the repository
 - Added labo1 to course Информационная безопасность 2022-2023
 - Trash are deleted
 - modified files README_lab01.md
