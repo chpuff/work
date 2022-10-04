@@ -1,3 +1,5 @@
+- Added lab05 to course Информационная безопасность 2022-2023
+- Updated CHANGELOG.md in the repository
 - Added lab04 to course Информационная безопасность 2022-2023
 - Updated CHANGELOG.md in the repository
 - Added lab03 to course Информационная безопасность 2022-2023
