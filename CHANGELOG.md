@@ -1,3 +1,5 @@
+- Added lab08 to course Математические основы защиты информации 2023-2024
+- Updated CHANGELOG.md in the repository
 - Added lab07 to course Математические основы защиты информации 2023-2024
 - Updated CHANGELOG.md in the repository
 - Added lab06 to course Математические основы защиты информации 2023-2024
